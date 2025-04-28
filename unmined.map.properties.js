@@ -9,6 +9,6 @@ var UnminedMapProperties = {
     maxRegionX: 10,
     maxRegionZ: 18,
     worldName: "Realm de MerkuSaurio 24-04-2025 19:00:18 - Copia",
-    background: "#000",
+    background: "#000000",
     markers: new Array()
 }
